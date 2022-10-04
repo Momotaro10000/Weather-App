@@ -1,3 +1,5 @@
+## Weather app
+
 This project is a script for the awesome [wttr.in](https://wttr.in/)
 You can customise it the way you like with variety of flags for any desirable locations (use [wttr.in/:help](https://wttr.in/:help) for instructions).
 Locations are collected in a tuple, dictionary contains setting parameters. 
